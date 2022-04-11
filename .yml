@@ -1,0 +1,2 @@
+- name: Crust IPFS Upload
+  uses: crustio/ipfs-upload-action@v2.0.2
